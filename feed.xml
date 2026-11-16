@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>apex-jev-chat-jarvis</title>
+  <subtitle>Official architecture documentation and production specifications for apex-jev-chat-jarvis</subtitle>
+  <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/feed.xml" rel="self"/>
+  <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/</id>
+  <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+  <entry>
+    <title>验收标准（公共尺子）</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/acceptance.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/acceptance.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>所有任务以此为准。建者不自证，贴真实输出。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 分布式架构设计与拓扑调度规约</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/architecture.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/architecture.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>1. 去中心化弹性伸缩：支持大规模节点并发接入与轻量化状态同步。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 核心通信协议与数据同步技术规范</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specifications.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specifications.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>- 传输层默认启用 TLS 1.3 协议通道与 AES-256 加密。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 架构升级与技术规约 (v1)</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v1.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v1.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 架构升级与技术规约 (v10)</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v10.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v10.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 架构升级与技术规约 (v11)</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v11.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v11.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 架构升级与技术规约 (v12)</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v12.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v12.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 架构升级与技术规约 (v13)</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v13.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v13.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 架构升级与技术规约 (v14)</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v14.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v14.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 架构升级与技术规约 (v15)</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v15.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v15.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 架构升级与技术规约 (v16)</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v16.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v16.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 架构升级与技术规约 (v17)</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v17.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v17.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 架构升级与技术规约 (v18)</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v18.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v18.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 架构升级与技术规约 (v19)</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v19.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v19.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>jev-chat-jarvis-mirror-399 架构升级与技术规约 (v2)</title>
+    <link href="https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v2.html"/>
+    <id>https://Shijiuwei.github.io/apex-jev-chat-jarvis/docs/specs-update-v2.html</id>
+    <updated>2026-11-16T19:44:18.726070100+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+</feed>

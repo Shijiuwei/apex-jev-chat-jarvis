@@ -1,5 +1,6 @@
-title: "jev-chat-jarvis-mirror-399"
-description: "High availability mirror and network topology specifications for jev-chat-jarvis-mirror-399"
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-relative-links
+title: "apex-jev-chat-jarvis"
+description: "Official architecture documentation and production specifications for apex-jev-chat-jarvis"
+lang: en-US
+exclude:
+  - node_modules
+  - .git
